@@ -14,7 +14,7 @@ This is a device which is created using raspberry pi and camera v2
 * dlib
 * SQLite
 * openpxyl
-* Uses Micosoft Cognitive Face API to recognizes faces in picture from cctv or clicked from mobile devices (source can varry) and marks the attendace of each     student present in picture
+* Uses Micosoft Cognitive Face API to recognizes faces in picture from device and marks the attendace of each student present in picture
 
 | FILE	             |  DESC                                                                            |
 ---------------------|-------------------------------------------------------------------------------------
